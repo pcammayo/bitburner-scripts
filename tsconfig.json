@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "baseUrl": ".",
+    "paths": {
+      "@lib/*": ["lib"],
+      "@scripts/*": ["scripts"],
+      "@services/*": ["services"],
+      "@types/*": ["types"]
+    }
+  }
+}
