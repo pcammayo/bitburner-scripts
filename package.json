@@ -1,0 +1,35 @@
+{
+  "name": "bitburner-scripts",
+  "version": "1.0.0",
+  "description": "All in-game scripts for the game bitburner",
+  "keywords": [
+    "scripts",
+    "bitburner",
+    "game",
+    "project"
+  ],
+  "homepage": "https://github.com/pcammayo/bitburner-scripts#readme",
+  "bugs": {
+    "url": "https://github.com/pcammayo/bitburner-scripts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcammayo/bitburner-scripts.git"
+  },
+  "license": "MIT",
+  "author": "Patrick Cammayo",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.38.0",
+    "eslint": "^9.38.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.46.2"
+  }
+}
